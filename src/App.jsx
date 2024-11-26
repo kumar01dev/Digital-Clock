@@ -31,7 +31,7 @@ function App() {
   return (
       <div 
         className="h-screen w-screen 
-        bg-[url('https://images.pexels.com/photos/18126312/pexels-photo-18126312/free-photo-of-panorama-of-the-wasteland-with-villages-scattered-between-the-hills.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load')] bg-cover flex justify-center items-center"
+        bg-[url('https://images.pexels.com/photos/18126312/pexels-photo-18126312/free-photo-of-panorama-of-the-wasteland-with-villages-scattered-between-the-hills.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load')] bg-cover bg-center flex justify-center items-center"
       >
           <div 
             className="h-[17vh] w-[39vw] 
